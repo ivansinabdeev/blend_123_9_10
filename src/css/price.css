@@ -1,3 +1,46 @@
 .price {
   background-color: lightgreen;
 }
+
+.price-title {
+  font-weight: 700;
+  font-size: 34px;
+  color: #22343d;
+}
+
+.price-text {
+  font-weight: 500;
+  font-size: 16px;
+  color: #22343d;
+}
+
+.price-list {
+  list-style: none;
+}
+
+.price-item {
+}
+
+.price-item-subtitle {}
+
+.price-text-description {}
+
+.price-sign-box {}
+
+.price-sign {}
+
+.price-content-box {}
+
+.price-content {}
+
+.order-btn {
+  border-radius: 8px;
+  min-width: 139px;
+  height: 44px;
+
+  background-color: #02897a;
+
+  font-weight: 600;
+  font-size: 18px;
+  color: #fff;
+}
