@@ -1,3 +1,53 @@
-.feedback {
-    background-color: brown;
+.container {
+}
+.feedback_section {
+}
+.feedback_title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.78125;
+  letter-spacing: 0.01em;
+  color: #22343d;
+}
+.feedback_subtitle {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #22343d;
+}
+.feedback-list {
+}
+.feedback-item {
+}
+.feedback-stars {
+}
+.feedback-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+  color: #737373;
+}
+.feedback-author {
+}
+.feedback-avatar {
+}
+.feedback-meta {
+}
+.feedback-name {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.01em;
+  color: #02897a;
+}
+.feedback-role {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.71429;
+  letter-spacing: 0.01em;
+  color: #252b42;
 }
