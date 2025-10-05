@@ -1,4 +1,23 @@
-.header {
-  padding: 20px 0;
-  background-color: chartreuse;
+.header-logo-link {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 0.93;
+  color: #173a56;
+}
+
+.header-nav-list {
+  display: flex;
+  gap: 30;
+}
+
+.header-nav-item {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #22343d;
+}
+
+.header-btn-list {
+  display: flex;
+  gap: 21px;
 }
